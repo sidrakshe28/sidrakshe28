@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddhika !! 👋
 
-## I'm a Final year CSE Student
+ HI,I'm Siddhika Rakshe,a final year CSE student ,Tech Enthusiast and Astromnomy lover. 
 - 🔭 I’m currently working on my final year project on Computer vision and Natural Language Processing.
 - 🌱 I’m currently learning Redux.
 - 🥅 2020 Goals: Contribute more to Open Source projects and be well-versed with Data structures.
