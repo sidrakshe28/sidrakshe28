@@ -1,4 +1,4 @@
-### Hi there, I'm Siddhika -[website] 👋
+### Hi there, I'm Siddhika !! 👋
 
 ## I'm a Final year CSE Student
 - 🔭 I’m currently working on my final year project on Computer vision and Natural Language Processing.
@@ -34,6 +34,8 @@
 <br />
 <br />
 
+---
+<img align="left" alt="Siddhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&hide_border=true" />
 
 [twitter]:https://twitter.com/SidRakshe28
 [linkedin]: https://www.linkedin.com/in/siddhika28/
