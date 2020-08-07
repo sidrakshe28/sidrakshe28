@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="sidrakshe28 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sidrakshe28 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkdeIn]
+[<img align="left" alt="sidrakshe28 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sidrakshe28 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -36,5 +36,5 @@
 
 
 [twitter]:https://twitter.com/SidRakshe28
-[LinkedIn]: https://www.linkedin.com/in/siddhika28/
+[linkedin]: https://www.linkedin.com/in/siddhika28/
 [instagram]: https://www.instagram.com/sid_r_28/
