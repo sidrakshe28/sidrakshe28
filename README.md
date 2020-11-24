@@ -6,6 +6,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and be well-versed with Data structures.
 - ⚡ I love to paint, read fiction and bake cupcakes and cookies.
 
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 ### Connect with me:
 
 
@@ -17,13 +21,13 @@
 
 ### Languages and Tools:
 
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -36,6 +40,7 @@
 
 ---
 <img align="left" alt="Siddhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&hide_border=true" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrakshe28&label=Profile%20views&color=129e00&style=plastic" alt="sidrakshe28" /> </p>
 
 [twitter]:https://twitter.com/SidRakshe28
 [linkedin]: https://www.linkedin.com/in/siddhika28/
