@@ -6,6 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and be well-versed with Data structures.
 - ⚡ I love to paint, read fiction and bake cupcakes and cookies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrakshe28&label=Profile%20views&color=129e00&style=plastic" alt="sidrakshe28" /> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -40,7 +41,7 @@
 
 ---
 <img align="left" alt="Siddhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&hide_border=true" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrakshe28&label=Profile%20views&color=129e00&style=plastic" alt="sidrakshe28" /> </p>
+
 
 [twitter]:https://twitter.com/SidRakshe28
 [linkedin]: https://www.linkedin.com/in/siddhika28/
