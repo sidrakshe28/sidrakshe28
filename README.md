@@ -22,7 +22,6 @@
 
 <img align="left" alt="Siddhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&hide_border=true" />
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 [twitter]:https://twitter.com/SidRakshe28
