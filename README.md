@@ -17,10 +17,20 @@
 [<img align="left" alt="sidrakshe28 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sidrakshe28 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
 
-<br />
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left" alt="Siddhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&hide_border=true" />
+![Siddhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&theme=radical)
+
+
+<br>
+
+[![Siddhika's github activity graph](https://activity-graph.herokuapp.com/graph?username=sidrakshe28&bg_color=443c40&color=37b7cd&line=07edd3&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 
 
