@@ -26,7 +26,7 @@
 
 <br>
 
-[![Siddhika's github activity graph](https://activity-graph.herokuapp.com/graph?username=sidrakshe28&bg_color=443c40&color=37b7cd&line=07edd3&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Siddhika's github activity graph](https://activity-graph.herokuapp.com/graph?username=sidrakshe28&bg_color=443c40&color=37b7cd&line=07edd3&point=03d3d&area=true&hide_border=true)](https://github.com/sidrakshe28/github-readme-activity-graph)
 
 
 
