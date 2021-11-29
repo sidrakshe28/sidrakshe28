@@ -1,8 +1,8 @@
 ### Hi there, I'm Siddhika !! 👋
 
  Hii, I'm Siddhika Rakshe-a final year CSE student ,Tech Enthusiast and Astronomy lover.🌻
-- 🔭 I’m currently working on [Machine learning](https://github.com/sidrakshe28/Major-project-Sem-7) project.
-- 🌱 I’m currently learning Redux.
+
+- 🌱 I’m currently learning Angular.
 - 🥅 2021 Goals: Contribute more to Open Source projects and be well-versed with Data structures.
 - ⚡ I love to paint, read fiction and bake cupcakes and cookies.
 
