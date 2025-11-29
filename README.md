@@ -1,11 +1,8 @@
 ### Hi there, I'm Siddhika !! 👋
 
- Hii, I'm Siddhika Rakshe-a final year CSE student ,Tech Enthusiast and Astronomy lover.🌻
+Software Engineer with 4+ years of experience designing and building reliable data pipelines, large-scale ETL workflows, and analytics platforms. I’ve worked extensively across PySpark, Hive, Airflow, Hadoop, SQL, AWS, and Databricks to turn messy, high-volume data into scalable, production-ready systems.
 
-- 🌱 I’m currently learning Angular.
-- 🥅 2021 Goals: Contribute more to Open Source projects and be well-versed with Data structures.
-- ⚡ I love to paint, read fiction and bake cupcakes and cookies.
-
+Lately, I’ve been exploring the space around LLMs, AI agents, MLOps, machine learning pipelines, and RAG-based solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrakshe28&label=Profile%20views&color=129e00&style=plastic" alt="sidrakshe28" /> </p>
 
 
