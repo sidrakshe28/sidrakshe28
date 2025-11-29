@@ -36,10 +36,6 @@ Lately, I’ve been exploring the space around LLMs, AI agents, MLOps, machine l
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Siddhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidrakshe28&show_icons=true&theme=radical)
-
-
-<br>
 
 
 
